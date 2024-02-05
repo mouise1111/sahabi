@@ -11,8 +11,10 @@
     "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
+    "@nativescript/preview-cli": "1.0.12",
     "@nativescript/types": "~8.6.1",
     "@nativescript/webpack": "~5.0.18",
+    "@types/node": "^20.11.16",
     "svelte": "~4.2.2",
     "svelte-loader": "^3.1.9",
     "svelte-native-preprocessor": "^1.0.0",
