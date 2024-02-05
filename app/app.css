@@ -19,3 +19,12 @@
   font-weight: 400;
 }
 
+.lexend-zetta-black {
+  font-family: 'Lexend Zetta', sans-serif;
+  font-weight: 900;
+}
+
+.lexend-zetta-regular {
+  font-family: 'Lexend Zetta', 'LexendZetta-Regular';
+  font-weight: 300;
+}
